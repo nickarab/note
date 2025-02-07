@@ -64,3 +64,7 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+## How it works?
+Configure o .env da sua preferência, utilize o banco de dados que desejar, realize as migrations e as seeds dentro do seu banco de dados usando os comandos do artisan, esse projeto não utiliza cadastramento de usuário apenas login.
+Você pode editar a seeds de sua preferência seguindo os critérios da migrations para testar se tiver interesse.
