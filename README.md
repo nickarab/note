@@ -8,4 +8,4 @@ Este projeto propõe-se a validar usuários registrados em um banco de dados e, 
 
 ## Instruções para Teste
 
-Para testar o funcionamento do projeto, basta clonar o repositório e, com o Composer instalado em seu ambiente, executar o comando composer install para instalar as dependências necessárias. O projeto está preparado para ser utilizado de maneira flexível, podendo ser adaptado para diferentes finalidades acadêmicas ou de estudo.
+Para testar o funcionamento do projeto, basta clonar o repositório e, com o Composer instalado em seu ambiente, executar o comando <pre> ```bash composer install ``` </pre> para instalar as dependências necessárias. O projeto está preparado para ser utilizado de maneira flexível, podendo ser adaptado para diferentes finalidades acadêmicas ou de estudo.
